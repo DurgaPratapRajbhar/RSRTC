@@ -16,7 +16,9 @@
           <!-- BEGIN INBOX DROPDOWN -->
           <li class="dropdown dropdown-extended dropdown-dark dropdown-inbox" id="header_inbox_bar">
             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-            <span class="circle">12,23,553.00</span>
+            <!-- <span class="circle">12,23,553.00</span> -->
+
+            <span class="badge badge-primary" style="margin:8px "><i class="fa fa-rupee"></i> 12,23,553.00</span>
                        
             </a>
            
@@ -26,16 +28,21 @@
           <li class="dropdown dropdown-user dropdown-dark">
             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
             
-            <span class="username username-hide-mobile">Admin</span>
+            <span class="username username-hide-mobile"> <i class="fa fa-user"></i> Admin</span>
             </a>
             <ul class="dropdown-menu dropdown-menu-default">
               <li>
-                <a href="extra_profile.html">
+                <a href="#">
                 <i class="icon-user"></i> My Profile </a>
+              </li>
+
+              <li>
+                <a href="#">
+                <i class="icon-user"></i> Change Password </a>
               </li>
              
               <li>
-                <a href="login.html">
+                <a href="{{url('login')}}">
                 <i class="icon-key"></i> Log Out </a>
               </li>
             </ul>

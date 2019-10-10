@@ -11,8 +11,17 @@
 |
 */
 
-Route::get('/', function () {
+Route::post('/', function () {
 
 	//echo phpinfo();
     return view('dashboard.index');
 });
+
+
+Route::get('login', function () {
+
+	//echo phpinfo();
+    return view('dashboard.login1');
+});
+
+Route::get('normal','DashboardController@normal_pass');

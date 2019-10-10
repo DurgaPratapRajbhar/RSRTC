@@ -5,10 +5,10 @@
 
       <div class="hor-menu ">
         <ul class="nav navbar-nav">
-          <li class="active">
+          <li>
             <a href="{{url('/')}}">Dashboard</a>
           </li>
-          <li class="menu-dropdown mega-menu-dropdown ">
+          <li class="menu-dropdown mega-menu-dropdown active">
             <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
             New Registration <i class="fa fa-angle-down"></i>
             </a>
@@ -22,7 +22,7 @@
                           <h3>Student Pass</h3>
                         </li>
                         <li>
-                          <a href="#" class="iconify">
+                          <a href="{{url('/normal')}}" class="iconify">
                           <i class="icon-pin"></i>
                           School Pass </a>
                         </li>
@@ -126,6 +126,13 @@
         <ul class="nav navbar-nav">
           <li  >
             <a  >Depot : Mumbia Central</a>
+          </li>
+
+        </ul>
+
+        <ul class="nav navbar-nav">
+          <li  >
+            <a  >Terminal Id : 087876767</a>
           </li>
 
         </ul>

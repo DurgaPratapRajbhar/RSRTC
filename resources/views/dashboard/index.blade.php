@@ -19,13 +19,13 @@
       <!-- BEGIN PAGE CONTENT INNER -->
       <div class="row margin-top-10">
         
-        <div class="col-md-12 col-sm-12">
+        <div class="col-md-6 col-sm-12">
           <!-- BEGIN PORTLET-->
           <div class="portlet light ">
             <div class="portlet-title">
               <div class="caption caption-md">
                 <i class="icon-bar-chart theme-font hide"></i>
-                <span class="caption-subject theme-font bold">Today's Overview</span>
+                <span class="caption-subject theme-font bold">Today's Overview </span> <h6><i>Updated on 12th Sep 2019, 10:25</i></h6>
                 <span class="caption-helper hide">weekly stats...</span>
               </div>
               <!-- <div class="actions">
@@ -45,46 +45,43 @@
                 <table class="table table-hover table-light">
                 <thead>
                 <tr class="uppercase">
-                  <th>
-                     
-                  </th>
-                  <th>
-                     Count
-                  </th>
-                  <th>
-                     Amount
-                  </th>
+                  <th></th>
+                  <th>  Count </th>
+                  <th>  Amount  </th>
                   
                 </tr>
                 </thead>
-                <tr>
-                   
-                  <td>
-                    <a href="javascript:;" class="primary-link">Registration</a>
-                  </td>
-                  <td>
-                     20
-                  </td>
-                  <td>
-                     15,000
-                  </td>
-                 
+                <tr> 
+                  <td><h4>Registration</h4></td>
+                  <td> 20 </td>
+                  <td> 15,000  </td>
                 </tr>
-                
-               
-                <tr>
-                   
-                  <td>
-                    <a href="javascript:;" class="primary-link">Top Up</a>
-                  </td>
-                  <td>
-                     20
-                  </td>
-                  <td>
-                     15,000
-                  </td>
-                  
+                <tr> 
+                  <td><h4>Shopping Wallet Top Up</h4> </td>
+                  <td> 20 </td>
+                  <td> 15,000  </td>
                 </tr>
+
+                <tr> 
+                  <td><h4>Travel Wallet Top Up</h4> </td>
+                  <td> 20 </td>
+                  <td> 15,000  </td>
+                </tr>
+
+                <tr> 
+                  <td><h4>Bus Pass Renewal</h4> </td>
+                  <td> 20 </td>
+                  <td> 15,000  </td>
+                </tr>
+
+                <tr> 
+                  <td><h4>Total OTC Card Availabe</h4> </td>
+                  <td> 20 </td>
+                  <td>-</td>
+                </tr>
+
+
+
                 </table>
               </div>
             </div>
