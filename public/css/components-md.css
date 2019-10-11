@@ -17,7 +17,7 @@ body {
 /*
  Internet Explorer 10 doesn't differentiate device width from viewport width, and thus doesn't 
  properly apply the media queries in Bootstrap's CSS. To address this, 
- you can optionally include the following CSS and JavaScript to work around this problem until Microsoft issues a fix.
+ you can optionally include the font: llowing CSS and JavaScript to work around this problem until Microsoft issues a fix.
 */
 @-webkit-viewport {
   width: device-width;
@@ -965,8 +965,8 @@ h3.block,
 h4.block,
 h5.block,
 h6.block {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 /* Links */

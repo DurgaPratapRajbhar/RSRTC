@@ -17,6 +17,7 @@
 <link href="{{url('css/uniform.default.css')}}" rel="stylesheet" type="text/css">
 
 <link href="{{url('css/select2.css')}}" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="{{url('css/datepicker.css')}}"/>
 
 <!-- END GLOBAL MANDATORY STYLES -->
 <!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
@@ -33,6 +34,22 @@
 <link href="{{url('css/custom.css')}}" rel="stylesheet" type="text/css">
 <!-- END THEME STYLES -->
 <link rel="shortcut icon" href="favicon.ico">
+<style>
+	.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 0px 0px;
+}
+.form-wizard .steps {
+    padding: 0px 0;
+    margin-bottom: 5px;
+    background-color: #fff;
+    background-image: none;
+    filter: none;
+    border: 0px;
+    box-shadow: none;
+}
+</style>
 </head>
 
 <body class="page-md">
@@ -78,6 +95,7 @@
 <script type="text/javascript" src="{{url('js/select2.min.js')}}"></script>
 <script type="text/javascript" src="{{url('js/jquery.bootstrap.wizard.min.js')}}"></script>
 <script src="{{url('js/form-wizard.js')}}" type="text/javascript"></script>
+<script type="text/javascript" src="{{url('js/bootstrap-datepicker.js')}}"></script>
 
 <!-- <script src="{{url('js/demo.js')}}" type="text/javascript"></script> -->
 <!-- <script src="{{url('js/index3.js')}}" type="text/javascript"></script> -->
