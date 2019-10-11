@@ -49,6 +49,60 @@
     border: 0px;
     box-shadow: none;
 }
+.form-group0 {
+    margin-bottom: 0px;
+}
+
+.form-group.form-md-line-input.form-md-floating-label .form-control ~ label {
+    font-size: 14px;
+    top: 12px;
+    transition: 0.2s ease all;
+    color: #999;
+}
+.form-horizontal .form-group.form-md-line-input .form-control ~ label, .form-horizontal .form-group.form-md-line-input .form-control ~ .form-control-focus {
+    width: auto;
+    left: 0px;
+    right: 0px;
+}
+
+.form-horizontal .form-group {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.form-group.form-md-line-input .form-control {
+    background: none;
+    border: 0;
+        border-bottom-width: 0px;
+        border-bottom-style: none;
+        border-bottom-color: currentcolor;
+    border-bottom: 1px solid #e5e5e5;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    color: #333;
+    box-shadow: none;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 12px;
+}
+.table {
+    width: 95%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.table thead tr th {
+    font-size: 12px;
+    font-weight: 600;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 3px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
 </style>
 </head>
 

@@ -81,7 +81,7 @@
 
                       <div class="tab-pane active" id="tab1">
 
-                        <h3 class="block">Provide customer's details</h3>
+                      <h3 class="block">Check Pass Feasibility</h3>
 
                       <table border="0" width=100% align="center">
                         <tr>
@@ -117,49 +117,747 @@
 
                           <td width="40%" valign="top">
                             
-                            <div class="portlet-body">
+                            <div class="portlet-body" style="padding: 2px; border:1px solid red; border-style: dashed;>
                               <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; "><div class="scroller" style="overflow: hidden; width: auto;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2" data-initialized="1">
                               <div class="general-item-list">
                               <div class="item">
                                 <div class="item-head">
                                   <div class="item-details">
                                     <img class="item-pic" src="img/avatar3.jpg">
-                                    <a href="" class="item-name primary-link">Shurya Kant Singh</a>
+                                    <a href="" class="item-name primary-link">Shurya Kant Singh &nbsp; ( सूर्य कांत सिंह )</a>
                                     
                                   </div>
                                   <span class="item-status"><span class="badge badge-empty badge-success"></span> Active</span>
                                 </div>
                                       <div class="item-body">
                                                                                   
-                                        <div class="form-group">
-                                            <div class="col-md-3">
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
                                                 <span class="help-block">Pass Number</span>
-                                            </div>  
-                                            <div class="col-md-9">                                              
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
                                               <span class="help-block">545154110210</span>
                                             </div>                 
                                         </div>
-                                        <div class="form-group">
-                                            <div class="col-md-3">
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
                                                 <span class="help-block">Pass Type</span>
-                                            </div>  
-                                            <div class="col-md-9">                                              
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
                                               <span class="help-block">College Pass</span>
-                                            </div>                 
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Validity date</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">12/12/2018 - 12/12/2019</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Issued Depot</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">Amravati ( अमरावती ) </span>
+                                            </div>                  
                                         </div>
 
 
+                                        <div class="form-group0">
+                                            <div class="col-md-3">
+                                                <span class="help-block"></span>
+                                            </div> 
+                                            <div class="col-md-6">
+                                                <h4><span class="help-block"> <font color="red"><i class="fa fa-times-circle"></i> Card Already Issued</font></span></h4>
+                                            </div> 
+                                            <div class="col-md-3">                                              
+                                              <span class="help-block"></span>
+                                            </div>                  
+                                        </div>
 
+                                         
                                       </div>
                               </div>
                         
                        
                        
+                                </div>
+                              </div>
+
+                            </div>
+                            </div>
+
+
+
+                          </td>
+                        </tr>
+                      </table>
+   
                       </div>
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="tab-pane" id="tab2">
+                        
+                      <h3 class="block">Provide Customer's Details</h3>
+
+                      <table border="0" width=100% align="center">
+                        <tr>
+                          <td width="70%" valign="top">
+                            
+                          
+                          
+                          <div class="form-group">
+                             
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">First Name *</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Middle Name</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Last Name *</label>     
+                              </div> 
+                            </div>
+
+                          </div>
+                          </td>
+
+                          <td width="30%" valign="top" rowspan="3">
+                            
+                            <div class="portlet-body" style="padding: 2px; border:1px solid #ababab; border-style: dashed;>
+                              <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; "><div class="scroller" style="overflow: hidden; width: auto;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2" data-initialized="1">
+                              <div class="general-item-list">
+                              <div class="item">
+                                <div class="item-head">
+                                  <div class="item-details">
+                                    <img class="item-pic" src="img/avatar3.jpg">
+                                     <i class="fa fa-camera"></i> <a href="#" class="item-name primary-link">Upload Photo</a>  
+                                     &nbsp; | &nbsp;                                  
+                                     <i class="fa fa-camera"></i> <a href="#" class="item-name primary-link">Web Cam</a> 
+                                  </div>
+                                  
+                                </div>
+                                      <div class="item-body">
+                                                                                  
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Mobile</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-5">                                              
+                                              <span class="help-block">9967844833</span>
+                                            </div>                 
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Pass Type</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-5">                                              
+                                              <span class="help-block">Service Pass</span>
+                                            </div>                 
+                                        </div>
+
+                                        
+
+                                         
+                                      </div>
+                              </div>
+                        
+                       
+                       
+                                </div>
+                              </div>
+
+                            </div>
+                            </div>
+
+
+
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td width="70%" valign="top">
+                            
+                          
+                          
+                          <div class="form-group">
+                             
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Date Of Birth (dd/mm/yyyy)*</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Gender *</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Age *</label>     
+                              </div> 
+                            </div>
+
+                          </div>
+                          </td>
+                        </tr>
+
+
+                        <tr>
+                          <td width="70%" valign="top">
+                            
+                          
+                          
+                          <div class="form-group">
+                             
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">State *</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">District *</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Taluka *</label>     
+                              </div> 
+                            </div>
+
+                          </div>
+                          </td>
+                        </tr>
+
+
+                        <tr>
+                          <td width="70%" valign="top">
+                            
+                          
+                          
+                          <div class="form-group">
+                             
+                            <div class="col-md-7">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Address *</label>     
+                              </div> 
+                            </div>
+
+                           
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">City *</label>     
+                              </div> 
+                            </div>
+
+                          </div>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td width="70%" valign="top">
+                            
+                          
+                          
+                          <div class="form-group">
+                             
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Pin Code *</label>     
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-7">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <input type="text" class="form-control" id="form_control_1">
+                                <label for="form_control_1">Email Id</label>     
+                              </div> 
+                            </div>
+
+                          </div>
+                          </td>
+                        </tr>
+                      </table>
+
                     </div>
 
-                  </div>
-                  </div>
+
+
+                      <div class="tab-pane" id="tab3">
+                        <h3 class="block">Pass, Routes and Fares details</h3>
+                        <table border="0" width=100% align="center">
+                        <tr>
+                          <td width="65%" valign="top">
+                            
+                          <div class="caption"> 
+                              <span class="caption-subject font-green-sharp bold">Select Validity & Bus Type</span>
+                            </div>
+                          
+                          <div class="form-group">
+                             
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <select name="pass_type" class="form-control">
+                                    <option value="">--- Select Pass Validity --- </option>
+                                    <option value="">1 Month (30 days)</option>
+                                    <option value="">3 Month (90 Days)</option>
+                                    <option value="">1 Year</option>
+                                </select>
+                                  
+                              </div> 
+                            </div>
+
+                            <div class="col-md-1"></div>
+
+                            <div class="col-md-3">
+                              <div class="form-group form-md-line-input form-md-floating-label">
+                                <select name="pass_type" class="form-control">
+                                    <option value="">--- Select Bus Type --- </option>
+                                    <option value="">Ordinary bus</option>
+                                    <option value="">Semi Luxury</option>
+                                    <option value="">Sleeper</option>
+                                </select>     
+                              </div> 
+                            </div>
+
+                           
+
+                          </div>
+                          </td>
+
+                          <td width="35%" valign="top" rowspan="3">
+                            
+                            <div class="portlet-body" style="padding: 2px; border:1px solid #ababab; border-style: dashed;>
+                              <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; "><div class="scroller" style="overflow: hidden; width: auto;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2" data-initialized="1">
+                              <div class="general-item-list">
+                              <div class="item">
+                                <div class="item-head">
+                                  <div class="item-details">
+                                    <img class="item-pic" src="img/avatar3.jpg">
+                                     <i class="fa fa-camera"></i> <a href="#" class="item-name primary-link">Upload Photo</a>  
+                                     &nbsp; | &nbsp;                                  
+                                     <i class="fa fa-camera"></i> <a href="#" class="item-name primary-link">Web Cam</a> 
+                                  </div>
+                                  
+                                </div>
+                                      <div class="item-body">
+                                                                                  
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Mobile</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-6">                                              
+                                              <span class="help-block">9967844833</span>
+                                            </div>                 
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Pass Type</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-6">                                              
+                                              <span class="help-block">Service Pass</span>
+                                            </div>                 
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Name</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-6">                                              
+                                              <span class="help-block">Rajesh Kumar (35)</span>
+                                            </div>                 
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Address</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-6">                                              
+                                              <span class="help-block">402, Shiv Apt. CHS, Panvel</span>
+                                            </div>                 
+                                        </div>
+
+                                        
+
+                                         
+                                      </div>
+                              </div>
+                        
+                       
+                       
+                                </div>
+                              </div>
+
+                            </div>
+                            </div>
+
+
+
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td width="70%" valign="top">
+                            
+                          <!-- BEGIN EXAMPLE TABLE PORTLET-->
+          
+                          <div class="portlet-title">
+                            <div class="caption"> 
+                              <span class="caption-subject font-green-sharp bold">Choose Route</span>
+                            </div>
+                          
+                          </div>
+                          <div class="portlet-body">
+                           
+                            <table class="table table-striped table-bordered table-hover" id="sample_1">
+                            <thead>
+                            <tr>
+                              <th class="table-checkbox">
+                                Sr.
+                              </th>
+                              <th>
+                                 From - To
+                              </th>
+                              <th>
+                                 Bus Type
+                              </th>
+                              <th>
+                                 Fare Type
+                              </th>
+                              <th align="right">
+                                 Fare
+                              </th>
+                             
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr class="odd gradeX">
+                              <td><input type="checkbox" class="checkboxes" value="1"/></td>
+                              <td>Mumbai Centeral &nbsp; <i class="fa fa-exchange"></i> &nbsp; Bhor</td>
+                              <td>Ordinary</td>
+                              <td>N</td>
+                              <td align="right">2,000.00</td>
+                            </tr>
+
+                            <tr class="odd gradeX">
+                              <td><input type="checkbox" class="checkboxes" value="1"/></td>
+                              <td>Panvel &nbsp; <i class="fa fa-exchange"></i> &nbsp; Shivaji Nagar Pune</td>
+                              <td>Ordinary</td>
+                              <td>N</td>
+                              <td align="right">780.00</td>
+                            </tr>
+
+                            <tr class="odd gradeX">
+                              <td><input type="checkbox" class="checkboxes" value="1"/></td>
+                              <td>Dadar Mumbai &nbsp; <i class="fa fa-exchange"></i> &nbsp; Khopoli</td>
+                              <td>Ordinary</td>
+                              <td>N</td>
+                              <td align="right">1,280.50</td>
+                            </tr>
+                           
+                            </tbody>
+                            </table>
+                          </div>
+                       
+                        <!-- END EXAMPLE TABLE PORTLET-->
+                          
+                       
+                          </td>
+                        </tr>
+
+                      </table>
+                      </div>
+
+
+
+
+                      <div class="tab-pane" id="tab4">
+                   
+                         <h3 class="block">Confirm Customer's Pass Details</h3>
+
+                      <table border="0" width=100% align="center">
+                        <tr>
+                          <td width="48%" valign="top">
+                            
+                          <div class="portlet-body" style="padding: 2px; border:1px solid #ababab; border-style: dashed;>
+                              <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; "><div class="scroller" style="overflow: hidden; width: auto;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2" data-initialized="1">
+                              <div class="general-item-list">
+                              <div class="item">
+                                <div class="item-head">
+                                  <div class="item-details">
+                                    &nbsp; &nbsp; <img class="item-pic" src="img/avatar3.jpg">
+                                   <a href="#" class="item-name primary-link"><b>Shurya Kant Singh &nbsp; ( सूर्य कांत सिंह )</b></a>
+                                    
+                                  </div>
+                                 
+                                </div>
+                                      <div class="item-body">
+                                                                                  
+                                        
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Pass Type</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block"><b>Service Pass (Normal)</b></span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Pass Validity</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block"><b>1 Month (30 days)</b></span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Valid From</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block"><b>12/11/2019 - 12/12/2019</b></span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Route</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block"><b>Panvel &nbsp; <i class="fa fa-exchange"></i> &nbsp; Shivaji Nagar Pune</b></span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Bus Type</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block"><b>Ordinary Bus</b></span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Mobile Number</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">9967844833 </span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Card Collect From</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">Amravati ( अमरावती ) </span>
+                                            </div>                  
+                                        </div>                                       
+
+                                         
+                                      </div>
+                              </div>
+                        
+                       
+                       
+                                </div>
+                              </div>
+
+                            </div>
+                            </div>
+                          </td>
+                          <td width="2%" valign="top"></td>
+
+                          <td width="48%" valign="top">
+                            
+                            <div class="portlet-body" style="padding: 2px; border:1px solid #ababab; border-style: dashed;>
+                              <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; "><div class="scroller" style="overflow: hidden; width: auto;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2" data-initialized="1">
+                              <div class="general-item-list">
+                              <div class="item">
+                                
+                                      <div class="item-body">
+
+                                        <div class="form-group0">
+                                             
+                                            <div class="col-md-12">
+                                                <h3><a href="#" class="item-name primary-link">Fare Calculation</a></h3>
+                                            </div> 
+                                                         
+                                        </div>
+                                                                                  
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Pass Amount</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">545154110210</span>
+                                            </div>                 
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">GST</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">College Pass</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Loading Fee</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">12/12/2018 - 12/12/2019</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Convence Fee</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7">                                              
+                                              <span class="help-block">Amravati ( अमरावती ) </span>
+                                            </div>                  
+                                        </div>
+
+
+                                        
+
+                                         
+                                      </div>
+                              </div>
+                        
+                       
+                       
+                                </div>
+                              </div>
+
+                            </div>
+                            </div>
 
 
 
@@ -167,271 +865,8 @@
                         </tr>
                       </table>
 
-                        
 
 
-
-                       
-                        
-                      </div>
-
-
-
-
-
-
-
-
-
-
-
-                      <div class="tab-pane" id="tab2">
-                        <h3 class="block">Provide Customer's details</h3>
-                        <div class="form-group">
-                         
-                          <label class="control-label col-md-1"></label>
-                          
-                          <div class="col-md-3">
-                            <input type="text" class="form-control" name="fname"/>
-                            <span class="help-block">
-                            First Name <span class="required">
-                          * </span></span>
-                          </div>
-                        
-                          <div class="col-md-3">
-                            <input type="text" class="form-control" name="mname"/>
-                            <span class="help-block">
-                            Middle Name </span>
-                          </div>
-
-                          <div class="col-md-3">
-                            <input type="text" class="form-control" name="lname"/>
-                            <span class="help-block">
-                            Last Name <span class="required">
-                          * </span></span>
-                          </div>
-
-
-                        </div>
-                        <!--- 11111111-->
-
-                        <div class="form-group">
-                         
-                          <label class="control-label col-md-1"></label>
-                          
-                          <div class="col-md-3">
-                           <label>
-                              <input type="radio" name="gender" value="M" data-title="Male"/>
-                              Male </label>
-                              <label> &nbsp; &nbsp; &nbsp; 
-                              <input type="radio" name="gender" value="F" data-title="Female"/>
-                              Female </label>
-                            <span class="help-block">
-                            Gender <span class="required">
-                          * </span></span>
-                          </div>
-                        
-                          <div class="col-md-3">
-                            <div class="input-icon">
-                              <i class="fa fa-calendar"></i>
-                              <input class="form-control date-picker" size="16" type="text" value="" data-date="" data-date-format="dd/mm/yyyy" data-date-viewmode="years"/>
-                            </div>
-                            <span class="help-block">
-                            Date of Birth (dd/mm/yyyy) &nbsp; (35 Years) </span>
-                          </div>
-
-                          <!-- <div class="col-md-3">
-                            <input type="text" class="form-control" name="lname"/>
-                            <span class="help-block">
-                            Last Name <span class="required">
-                          * </span></span>
-                          </div>
- -->
-
-                        </div>
-                        <!--- 11111111-->
-
-
-                        <div class="form-group">
-                         
-                          <label class="control-label col-md-1"></label>
-                                    
-                          <div class="col-md-3">
-                            <div class="input-icon">
-                              <textarea class="form-control" rows="3" name="remarks"></textarea>
-                            </div>
-                            <span class="help-block">
-                            Address <span class="required">
-                          * </span></span>
-                          </div>
-
-                          <div class="col-md-3">
-                            <select name="pass_type" class="form-control">
-                                  <option value="">Maharashtra</option>
-                            </select>
-                            <span class="help-block">
-                            State  <span class="required">
-                          * </span></span>
-                          </div>
-
-                          
-                          <div class="col-md-3">
-                            <select name="pass_type" class="form-control">
-                                  <option value="">--Disrict--</option>
-                            </select>
-                            <span class="help-block">
-                            Disrict  <span class="required">
-                          * </span></span>
-                          </div>
-
-                          
-
-
-                        </div>
-
-                      </div>
-
-
-
-                      <div class="tab-pane" id="tab3">
-                        <h3 class="block">Pass, Routes and Fares details</h3>
-                        <div class="form-group">
-                         
-                          <label class="control-label col-md-1"></label>
-                          
-                          <div class="col-md-4">
-                            <select name="pass_type" class="form-control">
-                                  <option value="">1 Month (30 Days)</option>
-                                  <option value="">3 Month (90 Days)</option>
-                                  <option value="">1 YeaR Pass</option>
-                            </select>
-                            <span class="help-block">
-                            Chose Pass Validity <span class="required"> * </span>
-                            </span>
-                          </div>
-
-                          <div class="col-md-4">
-                            <select name="pass_type" class="form-control">
-                                  <option value="">--- Select Pass Type --- </option>
-                                  <option value="">Normal Pass</option>
-                                  <option value="">Student Pass</option>
-                                  <option value="">Concession Pass</option>
-                            </select>
-                            <span class="help-block">
-                            Chose customer Pass Type</span>
-                          </div>
-
-
-
-                        </div>
-                      </div>
-
-
-
-
-                      <div class="tab-pane" id="tab4">
-                        <h3 class="block">Confirm your account</h3>
-                        <h4 class="form-section">Account</h4>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Username:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="username">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Email:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="email">
-                            </p>
-                          </div>
-                        </div>
-                        <h4 class="form-section">Profile</h4>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Fullname:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="fullname">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Gender:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="gender">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Phone:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="phone">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Address:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="address">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">City/Town:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="city">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Country:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="country">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Remarks:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="remarks">
-                            </p>
-                          </div>
-                        </div>
-                        <h4 class="form-section">Billing</h4>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Card Holder Name:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="card_name">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Card Number:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="card_number">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">CVC:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="card_cvc">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Expiration:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="card_expiry_date">
-                            </p>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="control-label col-md-3">Payment Options:</label>
-                          <div class="col-md-4">
-                            <p class="form-control-static" data-display="payment">
-                            </p>
-                          </div>
-                        </div>
                       </div>
                     </div>
                   </div>

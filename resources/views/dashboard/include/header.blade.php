@@ -17,12 +17,29 @@
           <li class="dropdown dropdown-extended dropdown-dark dropdown-inbox" id="header_inbox_bar">
             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
             <!-- <span class="circle">12,23,553.00</span> -->
-
-            <span class="badge badge-primary" style="margin:8px "><i class="fa fa-rupee"></i> 12,23,553.00</span>
-                       
+             <font color="green"><i class="fa fa-check-circle"></i> &nbsp; <b>LT POS</b></font>
             </a>
            
           </li>
+
+          <li class="droddown dropdown-separator">
+            <span class="separator"></span>
+          </li>
+
+          <li class="dropdown dropdown-extended dropdown-dark dropdown-inbox" id="header_inbox_bar">
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+            <!-- <span class="circle">12,23,553.00</span> -->
+             <font color="red"><i class="fa  fa-times"></i> &nbsp; <b>Biometric</b></font>
+
+            </a>
+           
+          </li>
+
+          <li class="droddown dropdown-separator">
+            <span class="separator"></span>
+          </li>
+
+
           <!-- END INBOX DROPDOWN -->
           <!-- BEGIN USER LOGIN DROPDOWN -->
           <li class="dropdown dropdown-user dropdown-dark">
