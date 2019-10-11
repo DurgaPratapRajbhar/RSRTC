@@ -17,5 +17,10 @@ class DashboardController extends Controller
      	   return view('dashboard.menu');
      }
 
+       
+       public function submit_fn(){
+
+       	        return view('dashboard.payment_option');
+       }
 
 }

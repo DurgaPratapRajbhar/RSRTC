@@ -25,4 +25,6 @@ Route::get('login', function () {
 });
 
 Route::get('normal','DashboardController@normal_pass');
+Route::get('submit-registration','DashboardController@submit_fn');
+
 Route::get('menu','DashboardController@menu_fn');
