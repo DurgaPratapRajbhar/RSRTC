@@ -803,8 +803,8 @@
                                             <div class="col-md-1">
                                                 <span class="help-block">:</span>
                                             </div> 
-                                            <div class="col-md-7">                                              
-                                              <span class="help-block">545154110210</span>
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">200.00</span>
                                             </div>                 
                                         </div>
 
@@ -815,8 +815,8 @@
                                             <div class="col-md-1">
                                                 <span class="help-block">:</span>
                                             </div> 
-                                            <div class="col-md-7">                                              
-                                              <span class="help-block">College Pass</span>
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">0.36</span>
                                             </div>                  
                                         </div>
 
@@ -827,20 +827,74 @@
                                             <div class="col-md-1">
                                                 <span class="help-block">:</span>
                                             </div> 
-                                            <div class="col-md-7">                                              
-                                              <span class="help-block">12/12/2018 - 12/12/2019</span>
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">0.00</span>
                                             </div>                  
                                         </div>
 
                                         <div class="form-group0">
                                             <div class="col-md-4">
-                                                <span class="help-block">Convence Fee</span>
+                                                <span class="help-block">Card Fee</span>
                                             </div> 
                                             <div class="col-md-1">
                                                 <span class="help-block">:</span>
                                             </div> 
-                                            <div class="col-md-7">                                              
-                                              <span class="help-block">Amravati ( अमरावती ) </span>
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">50.00</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Convenience Fee</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">20.00</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">e-Purse Fee</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">0.00</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block">Pass Charges</span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block">:</span>
+                                            </div> 
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block">2.00</span>
+                                            </div>                  
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-12">
+                                                <hr>
+                                            </div>                
+                                        </div>
+
+                                        <div class="form-group0">
+                                            <div class="col-md-4">
+                                                <span class="help-block"><b>Total Amount Payable</b></span>
+                                            </div> 
+                                            <div class="col-md-1">
+                                                <span class="help-block"></span>
+                                            </div> 
+                                            <div class="col-md-7" align="right">                                              
+                                              <span class="help-block"><b>272.36</b></span>
                                             </div>                  
                                         </div>
 
