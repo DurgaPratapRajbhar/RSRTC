@@ -23,39 +23,39 @@
                         </li>
                         <li>
                           <a href="{{url('/normal')}}" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           School Pass </a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           College Pass </a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                            Ahiliyabai Holkar Pass </a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Blind Student Pass </a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Handicapt Student Pass</a>
                         </li>
 
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Vocational  Pass</a>
                         </li>
 
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Koushalya Setu Abhiyan Pass</a>
                         </li>
 
@@ -68,27 +68,27 @@
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                             Senior Citizen Pass </a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Freedom Fighter Pass</a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Blind/Handicapt Pass</a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Medical Concession Pass </a>
                         </li>
                         <li>
                           <a href="#" class="iconify">
-                          <i class="icon-pin"></i>
+                          <i class="fa fa-angle-right"></i>
                           Blank Page Layout </a>
                         </li>
                       </ul>

@@ -106,7 +106,7 @@
                         
                       </div>
                       <div class="tab-pane" id="tab2">
-                        <h3 class="block">Provide your profile details</h3>
+                        <h3 class="block">Fill Customer's details</h3>
                         <div class="form-group">
                           <label class="control-label col-md-3">Fullname <span class="required">
                           * </span>
@@ -116,7 +116,19 @@
                             <span class="help-block">
                             Provide your fullname </span>
                           </div>
+
+                          <label class="control-label col-md-3">Fullname <span class="required">
+                          * </span>
+                          </label>
+                          <div class="col-md-4">
+                            <input type="text" class="form-control" name="fullname"/>
+                            <span class="help-block">
+                            Provide your fullname </span>
+                          </div>
                         </div>
+
+
+
                         <div class="form-group">
                           <label class="control-label col-md-3">Phone Number <span class="required">
                           * </span>
