@@ -12,4 +12,10 @@ class DashboardController extends Controller
      }
 
 
+    public function menu_fn(){
+
+     	   return view('dashboard.menu');
+     }
+
+
 }

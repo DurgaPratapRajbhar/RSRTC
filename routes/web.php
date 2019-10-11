@@ -25,3 +25,4 @@ Route::get('login', function () {
 });
 
 Route::get('normal','DashboardController@normal_pass');
+Route::get('menu','DashboardController@menu_fn');
